@@ -24,8 +24,8 @@ Aprender los fundamentos de la programación, desarrollar lógica y dominar la e
 
 ## 🧠 Tecnologías usadas
 
-- C / C++ (dependiendo del curso jeje 😅)
-- IDEs como Code::Blocks, Dev-C++, Visual Studio Code
+- C / C++, Php, Python (dependiendo del curso jeje 😅)
+- IDEs como Dev-C++, Visual Studio Code
 - Y mucho amor por el código ❤️
 
 ## ✨ Créditos
